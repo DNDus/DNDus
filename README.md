@@ -1,12 +1,10 @@
 
 ### Hi there 👋
 
-## I'm Rahul Dhanola.
-
+## I'm Diyorbek.
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Studying Computer Science & Engineering at University of Petroleum & Energy Studies Dehradun.
 
 
 <br>
